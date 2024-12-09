@@ -91,3 +91,6 @@
 ・メール通知機能は、Whenever Gem でスケジュール管理し、ActionMailer を使用して通知する
 ・備蓄リストの共有URLは、Rails のヘルパーメソッドで共有URLを生成
 ・検索フォームにStimulus Autocomplete（Rails7）を実装して検索候補を自動表示する
+
+◾︎ 画面変移図
+https://www.figma.com/design/gegXIVTvRZ2Z5Qjcl7zWp4/Untitled?node-id=0-1&node-type=canvas&t=03mdqamr8OZWD6QA-0
