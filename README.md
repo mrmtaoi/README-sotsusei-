@@ -94,3 +94,6 @@
 
 ◾︎ 画面変移図
 https://www.figma.com/design/gegXIVTvRZ2Z5Qjcl7zWp4/Untitled?node-id=0-1&node-type=canvas&t=03mdqamr8OZWD6QA-0
+
+◾︎ER図
+https://dbdiagram.io/d/RUNTEQ-sotsusei-67586f3be9daa85aca4824bd
